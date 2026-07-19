@@ -7,8 +7,6 @@
 <table>
   <tr>
     <td colspan="2" align="center" valign="middle">
-      <a href="https://updrop.in"><img src="https://img.shields.io/badge/Updrop.in-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-      &nbsp;
       <a href="mailto:helloworldhoney@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
       &nbsp;
     </td>
